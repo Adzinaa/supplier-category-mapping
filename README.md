@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 # 3. Run the solution
 # Open and run all cells in the Jupyter Notebook:
-jupyter notebook mapping_steps.ipynb
+jupyter notebook exploration_and_mapping.ipynb
 
 ```
 
